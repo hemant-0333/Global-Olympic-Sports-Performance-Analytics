@@ -48,7 +48,7 @@ The data model connects four structured CSV datasets in Tableau:
 1. Clone this repository or download the `Olympic_Sports_Analysis` folder.
 2. Install Flask: `py -m pip install flask`
 3. Run the Flask server: `py app.py`
-4. Open your browser and visit: `http://127.0.0.1:8000/`
+4. Open your browser and visit: https://global-olympic-sports-performance-7lhx.onrender.com/
 
 ---
 ## 👤 Author
